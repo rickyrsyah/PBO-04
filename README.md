@@ -17,4 +17,4 @@ Menu utama program ketika di-_running_ adalah sbb:
 NB: Gunakan `ArrayList` untuk menyimpan data mahasiswa.
 ## Penyelesaian
 #### Rancangan _Class_
-![Rancangan _Class_](classDesign.png?raw=true)
+![Rancangan _Class_](ClassDesign.png?raw=true)
